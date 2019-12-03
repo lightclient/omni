@@ -1,0 +1,11 @@
+[package]
+name = "omni"
+version = "0.0.0"
+authors = ["Matt Garnett <crates@garnett.dev>"]
+license = "MIT OR Apache-2.0"
+description = "A macro that handles ascending & decending ranges."
+repository = "https://github.com/lightclient/omni"
+keywords = ["range"]
+edition = "2018"
+
+[dependencies]
